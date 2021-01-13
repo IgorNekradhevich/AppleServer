@@ -1,0 +1,14 @@
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\bin\Debug\AppleServer.exe.config
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\bin\Debug\AppleServer.exe
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\bin\Debug\AppleServer.pdb
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\AppleServer.csprojAssemblyReference.cache
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\MainWindow.g.cs
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\App.g.cs
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\AppleServer_MarkupCompile.cache
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\AppleServer_MarkupCompile.lref
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\MainWindow.baml
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\AppleServer.g.resources
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\AppleServer.Properties.Resources.resources
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\AppleServer.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\AppleServer.exe
+C:\Users\Игорь\source\repos\AppleServer\AppleServer\obj\Debug\AppleServer.pdb
